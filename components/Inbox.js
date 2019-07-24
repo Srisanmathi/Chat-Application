@@ -44,7 +44,7 @@ export default class Inbox extends Component {
             (data) => {
                 let inbox = [];
                 let val = data.val();    //data.val() is an object
-                let keys = Object.keys(val);       //keys is an array containing keys                
+                let keys = Object.keys(val);      //keys is an array containing keys                
                 keys.forEach((key) => {
                     let obj = {
                         conv_name: val[key].conv_name,
