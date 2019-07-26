@@ -1,1 +1,1 @@
-This is master branch
+Merging master and chat branch
