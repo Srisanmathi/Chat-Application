@@ -1,6 +1,1 @@
-Merging master and chat branch
-
-
-
-
-This is  chat branch
+This is my react naitve chat application using Firebase Realtime database!
